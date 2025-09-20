@@ -15,7 +15,7 @@ model = joblib.load("models/best_model_rf.pkl")
 bert_model = SentenceTransformer('all-MiniLM-L6-v2')
 
 # OpenAI Key setup
-openai.api_key = "***REMOVED***"
+openai.api_key = "YOUR_OPENAI_KEY"
 
 # Function to extract text from uploaded file
 def extract_text(file):

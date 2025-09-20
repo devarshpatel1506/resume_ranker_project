@@ -12,7 +12,7 @@ from PyPDF2 import PdfReader
 # Load model + BERT
 model = joblib.load("models/best_model_rf.pkl")
 bert_model = SentenceTransformer("all-MiniLM-L6-v2")
-openai.api_key = "sk-..."  # Replace with your key or use environment var
+openai.api_key = "YOUR_OPENAI_KEY"  # Replace with your key or use environment var
 
 # Text extract function
 def extract_text(file):
