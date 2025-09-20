@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+.cache/
+pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+.env
+.env.*
+.ipynb_checkpoints/
+coverage.xml
+htmlcov/
+*.coverage
+*.log
+
+# Project artifacts (keep data you DON'T want in Git)
+data/raw/
+data/interim/
+outputs/
+reports/
+artifacts/tmp/
+
+# Node (if you have a tiny frontend)
+node_modules/
+dist/
+build/
