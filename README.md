@@ -1,3 +1,34 @@
+# Resume Ranker & Interview Question Generator
+
+**Tagline:**  
+*Rank smarter. Hire faster. Question better.*
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Frames-150458)
+![NumPy](https://img.shields.io/badge/NumPy-Math%20Library-013243)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-Machine%20Learning-orange)
+![XGBoost](https://img.shields.io/badge/XGBoost-Gradient%20Boosting-brightgreen)
+![LightGBM](https://img.shields.io/badge/LightGBM-Fast%20Boosting-yellowgreen)
+![RandomForest](https://img.shields.io/badge/RandomForest-Ensemble-forestgreen)
+![Logistic Regression](https://img.shields.io/badge/LogReg-Classifier-lightgrey)
+![SVM](https://img.shields.io/badge/SVM-Margin%20Classifier-9cf)
+![SHAP](https://img.shields.io/badge/Explainability-SHAP-lightblue)
+![TF-IDF](https://img.shields.io/badge/Vectorization-TF--IDF-yellow)
+![Embeddings](https://img.shields.io/badge/Embeddings-BERT-purple)
+![Streamlit](https://img.shields.io/badge/UI-Streamlit-ff4b4b)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-f37726)
+![OpenAI](https://img.shields.io/badge/API-OpenAI-black)
+![Cosine Similarity](https://img.shields.io/badge/Math-Cosine%20Similarity-darkblue)
+![Precision](https://img.shields.io/badge/Metric-Precision-yellow)
+![Recall](https://img.shields.io/badge/Metric-Recall-orange)
+![F1 Score](https://img.shields.io/badge/Metric-F1-blue)
+![Balanced Accuracy](https://img.shields.io/badge/Metric-Balanced%20Accuracy-green)
+![MCC](https://img.shields.io/badge/Metric-Matthews%20Corr%20Coeff-red)
+![Docker](https://img.shields.io/badge/Deploy-Docker-2496ed)
+![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen)
+
+---
+
 ## 1️⃣ Executive Summary — What & Why
 
 Modern recruitment is **overwhelmed with resumes**.  
